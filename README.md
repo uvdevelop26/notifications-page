@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/uvdevelop26/notifications-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://uvdevelop26.github.io/notifications-page/)
 
 ## My process
 
@@ -53,7 +53,7 @@ Users should be able to:
 
 ### Continued development
 
-i'm still getting started with javascript, i'm not happy with that i did in this project to accomplish the toggle challenge, i hope it gets easier and comfortable working with js in the future, i'm definitely going to practice every day
+i'm still getting started with javascript, i'm not happy with what i did in this project to accomplish the toggle challenge, i hope it gets easier and comfortable working with js in the future, i'm definitely going to practice every day
 
 
 
