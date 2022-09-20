@@ -59,7 +59,7 @@ i'm still getting started with javascript, i'm not happy with what i did in this
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/uvdevelop26)
-- Twitter - [@yourusername](https://www.twitter.com/betovillalbapy)
+- Frontend Mentor - [@uvdevelop26](https://www.frontendmentor.io/profile/uvdevelop26)
+- Twitter - [@betovillalbapy](https://www.twitter.com/betovillalbapy)
 
 
